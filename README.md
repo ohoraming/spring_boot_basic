@@ -1,1 +1,13 @@
-# spring_boot_basic
+## Spring Initializr 선택 옵션
+- Project
+  - Gradle Project
+- Language
+  - Java
+- Spring Boot
+  - 2.7.1
+- Project Metadata
+  - Packaging: Jar
+  - Java: 11
+- Dependencies
+  - Spring Web
+  - Thymeleaf
